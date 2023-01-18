@@ -138,13 +138,10 @@ body {
   /*** RESPONSIVE ***/
   /***** MOBILE *****/
   @media screen and (max-width: 576px) {
-    .body{
-      background-color: aqua;
-    }
 
     #img_1{
-      top:50%;
-      width: 45%;
+      top:24%;
+      width: 75%;
     }
     
     #img_2{
