@@ -37,7 +37,7 @@ body {
 #img_2{
   position: absolute;
   bottom:10%;
-  width: 35%;
+  width: 30%;
 }
 
 .text {
@@ -143,15 +143,13 @@ body {
     }
 
     #img_1{
-      position: absolute;
-      top:3%;
+      top:50%;
       width: 45%;
     }
     
     #img_2{
-      position: absolute;
-      bottom:10%;
-      width: 255%;
+      bottom: 50%;
+      width: 25%;
     }
 
     body::-webkit-scrollbar {
