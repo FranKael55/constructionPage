@@ -145,8 +145,8 @@ body {
     }
     
     #img_2{
-      bottom: 50%;
-      width: 25%;
+      bottom: 24%;
+      width: 50%;
     }
 
     body::-webkit-scrollbar {
